@@ -2,7 +2,7 @@
 import google.generativeai as genai
 from google.colab import userdata # Import userdata to securely fetch API key
 
-genai.configure(api_key='AIzaSyB0Ja844f3EWoBSDAZxRS9zL4BWNGVwShY')
+genai.configure(api_key='You_API_KEY')
 
 def generate_response(user_message, chat_history=[]):
     conversation = []
