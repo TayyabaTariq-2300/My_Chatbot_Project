@@ -11,8 +11,6 @@ This project demonstrates how to integrate LLMs into a real-time web application
 ✔ **Streamlit UI** for real-time chatting
 ✔ **Modular Code Structure** (`chatbot.py` for model logic, `app.py` for UI)
 ✔ **Ngrok Integration** to run the app publicly from Google Colab
-✔ **Supports Chat History**
-✔ **Fully deployable to GitHub**
 
 ---
 
