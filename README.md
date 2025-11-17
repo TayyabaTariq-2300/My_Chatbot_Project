@@ -44,7 +44,7 @@ my_chatbot_project/
 ### 1️⃣ Install Dependencies
 
 ```
-pip install -r requirements.txt
+!pip install google-generativeai streamlit pyngrok
 ```
 
 ### 2️⃣ Set up Gemini API Key
@@ -102,15 +102,3 @@ The Google LLM processes the chat history + new message.
 
 Chat history updates and repeats.
 
----
-
-## 🧠 Future Improvements (Good for Resume 🚀)
-
-* 🔹 Add voice input using Speech-to-Text
-* 🔹 Add multiple AI modes (Chat, Tutor, Analyst)
-* 🔹 Add PDF reading capability
-* 🔹 Create a user login system
-* 🔹 Deploy permanently on Cloud Run / HuggingFace Spaces
-
-✅ A GitHub-ready folder layout
-Just tell me!
