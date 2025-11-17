@@ -21,8 +21,6 @@ my_chatbot_project/
 │
 ├── chatbot.py        # Handles Gemini API calls and response generation
 ├── app.py            # Streamlit frontend (UI + app logic)
-├── requirements.txt  # Dependencies
-└── README.md         # Project documentation
 ```
 
 ---
